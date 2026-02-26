@@ -1,0 +1,7 @@
+.codebuddy/
+.idea/
+__pycache__/
+node_modules/
+logs/
+volumes/
+knowledge_document/
